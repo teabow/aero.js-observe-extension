@@ -1,0 +1,30 @@
+{
+  "name": "aero.js-observe-extension",
+  "version": "0.7.0",
+  "main": "src/aero-observe-ext.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "sample",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/teabow/aero.js-observe-extension",
+  "authors": [
+    "teabow <thibaud.bourgeois@gmail.com>"
+  ],
+  "description": "Oject.observe encapsulation introducing easy data-binding",
+  "keywords": [
+    "aero",
+    "javascript",
+    "observe",
+    "extension"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "aero.js": "~0.7.0",
+    "lodash": "~2.4.1",
+    "zepto": "~1.1.4"
+  }
+}

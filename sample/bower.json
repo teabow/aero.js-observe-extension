@@ -1,0 +1,19 @@
+{
+  "name": "aero.js-observe-extension",
+  "main": "scripts/main.js",
+  "version": "0.7.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "aero.js": "~0.7.0",
+    "lodash": "~2.4.1",
+    "zepto": "~1.1.4"
+  }
+}

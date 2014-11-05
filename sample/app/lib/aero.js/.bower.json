@@ -1,0 +1,38 @@
+{
+  "name": "aero.js",
+  "version": "0.7.0",
+  "main": "src/aero.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "sample",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/teabow/aero.js",
+  "authors": [
+    "teabow <thibaud.bourgeois@gmail.com>"
+  ],
+  "description": "Minimalistic Javascript MVC library",
+  "keywords": [
+    "aero",
+    "javascript",
+    "mvc",
+    "minimalistic"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "zepto": "~1.1.4"
+  },
+  "_release": "0.7.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.7.0",
+    "commit": "de942ca58a8df9e203533e80a70f1c5070f21783"
+  },
+  "_source": "git://github.com/teabow/aero.js.git",
+  "_target": "~0.7.0",
+  "_originalSource": "aero.js"
+}

@@ -1,4 +1,9 @@
-aero.js-observe-extension
-=========================
+aero.js Object.observe extension
+================================
 
-Object.observe extension for aero.js library
+<img src="http://thibaud.bourgeois.free.fr/aerojs/img/aerojs.png" alt="aero.js" height="100px"/>
+
+###Oject.observe encapsulation introducing easy data-binding
+
+<br/><br/>
+To see how it works just run the sample.
