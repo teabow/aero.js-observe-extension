@@ -5,4 +5,4 @@ aero.js Object.observe extension
 
 ###Oject.observe encapsulation introducing easy data-binding
 <br/>
-To see how it works just run the sample.
+To see how it works just run the sample. Documentation coming soon.
