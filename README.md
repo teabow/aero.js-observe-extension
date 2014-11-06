@@ -6,4 +6,4 @@
 ###Oject.observe encapsulation introducing simple data-binding
 Object.observe is currently only implemented in Chrome browser. To get a full Object.observe support you can use this [polyfill](https://github.com/jdarling/Object.observe).
 <br/><br/>
-To see how it works just run the sample. Documentation coming soon.
+To see how it works just run the sample. You can find documentation [here](http://teabow.github.io/aero.js).
